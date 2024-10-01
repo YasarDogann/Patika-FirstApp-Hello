@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\bin\Debug\net8.0\patika_firstApp.exe
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\bin\Debug\net8.0\patika_firstApp.deps.json
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\bin\Debug\net8.0\patika_firstApp.runtimeconfig.json
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\bin\Debug\net8.0\patika_firstApp.dll
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\bin\Debug\net8.0\patika_firstApp.pdb
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\obj\Debug\net8.0\patika_firstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\obj\Debug\net8.0\patika_firstApp.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\obj\Debug\net8.0\patika_firstApp.AssemblyInfo.cs
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\obj\Debug\net8.0\patika_firstApp.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\obj\Debug\net8.0\patika_firstApp.dll
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\obj\Debug\net8.0\refint\patika_firstApp.dll
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\obj\Debug\net8.0\patika_firstApp.pdb
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\obj\Debug\net8.0\patika_firstApp.genruntimeconfig.cache
+C:\Users\yasar\source\repos\patika_firstApp\patika_firstApp\obj\Debug\net8.0\ref\patika_firstApp.dll
