@@ -25,7 +25,7 @@ dotnet run
 
 
 ## 🚀 Kod
-using System;
+'''using System;
 
 
 namespace HelloWorld
@@ -40,4 +40,4 @@ namespace HelloWorld
             Console.ReadKey();
         }
     }
-}
+}'''
