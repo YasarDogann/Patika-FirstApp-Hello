@@ -20,12 +20,13 @@ https://github.com/YasarDogann/Patika-FirstApp-Hello.git
 
 ## 🚀Projeyi Çalıştırmak
 Proje dizinine gidin ve uygulamayı çalıştırın:
+```
 cd patika_firstApp
 dotnet run
-
+```
 
 ## 🚀 Kod
-'''using System;
+```using System;
 
 
 namespace HelloWorld
@@ -40,4 +41,4 @@ namespace HelloWorld
             Console.ReadKey();
         }
     }
-}'''
+}```
